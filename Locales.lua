@@ -2000,6 +2000,8 @@ L["This toy is obtained at the end of the Siege on Dragonbane Keep event."] = tr
 L["Opera Chest"] = true
 L["Holoviewer: The Lady of Dreams"] = true
 L["Holoviewer: The Timeless One"] = true
+L["Emmah"] = true
+
 --[[
 					The rest of this file is auto-generated using the WoWAce localization application.
 					Please go to http://www.wowace.com/projects/rarity/localization/ to update translations.
