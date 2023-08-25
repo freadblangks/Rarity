@@ -29,10 +29,13 @@ local dragonflightPets = {
 		name = L["Bakar Companion"],
 		itemId = 200290,
 		items = { 200468, 200513, 200515 },
-		questId = { 70906,
-		70009, 71136, -- Blue bag
-		70007, 71137, -- Green bag
-	},
+		questId = {
+			70906,
+			70009,
+			71136, -- Blue bag
+			70007,
+			71137, -- Green bag
+		},
 		spellId = 389503,
 		creatureId = 189159,
 		chance = 100, -- Guess
