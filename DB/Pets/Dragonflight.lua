@@ -11,7 +11,14 @@ local dragonflightPets = {
 		name = L["Ohuna Companion"],
 		itemId = 200276,
 		items = { 200468, 200513, 200515 },
-		questId = { 70906, 70009, 71137 },
+		questId = {
+			-- 69998,
+			70906, -- Purple bag
+			-- 70009,
+			71136, -- Blue bag
+			-- 70007,
+			71137, -- Green bag
+		},
 		spellId = 389429,
 		creatureId = 189134,
 		chance = 100, -- Guess
@@ -30,10 +37,11 @@ local dragonflightPets = {
 		itemId = 200290,
 		items = { 200468, 200513, 200515 },
 		questId = {
-			70906,
-			70009,
+			-- 69998,
+			70906, -- Purple bag
+			-- 70009,
 			71136, -- Blue bag
-			70007,
+			-- 70007,
 			71137, -- Green bag
 		},
 		spellId = 389503,
