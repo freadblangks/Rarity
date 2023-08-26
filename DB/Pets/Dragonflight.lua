@@ -43,6 +43,7 @@ local dragonflightPets = {
 			-- 69999,
 			71136, -- Blue bag
 			-- 70007,
+			-- 70000,
 			71137, -- Green bag
 		},
 		spellId = 389503,
