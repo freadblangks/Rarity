@@ -40,6 +40,7 @@ local dragonflightPets = {
 			-- 69998,
 			70906, -- Purple bag
 			-- 70009,
+			-- 69999,
 			71136, -- Blue bag
 			-- 70007,
 			71137, -- Green bag
